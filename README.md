@@ -1,6 +1,6 @@
 ## Responsive Travel Website
 
-Build Travel website with advanced React & JavaScript Nice design of a responsive Travel website 🥗 . It contains a header, home, about, services, app, contact and a footer.
+Build Travel website with advanced React & JavaScript Nice design of a responsive Travel website . It contains a header, home, about, services, app, contact and a footer.
 
 ## Screenshots
 <img src="screen1.png" width = "100%">
